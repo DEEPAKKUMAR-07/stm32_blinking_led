@@ -155,7 +155,6 @@ Thus, the STM32 automatically controls the LED according to the digital sensor i
 
 ## Program
 
-```c
 #include "main.h"
 
 void SystemClock_Config(void);
