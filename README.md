@@ -251,10 +251,11 @@ void SystemClock_Config(void)
     HAL_RCC_ClockConfig(&RCC_ClkInitStruct, FLASH_LATENCY_0);
 }
 
-
+---
 
 ## OUTPUT
 
+<img width="720" height="602" alt="image" src="https://github.com/user-attachments/assets/879c0b43-1ccf-4c89-a847-0edf38d856be" />
 
 
 ## Result
